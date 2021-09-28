@@ -1,4 +1,5 @@
 #sacar la suma de 1 al numero dado. si nos dan el 5, devolvera 5+4+3+2+1= 15
+#tema general operaciones matematicas.
 def sumaRecursividad(numero):
 
     if numero == 1:
